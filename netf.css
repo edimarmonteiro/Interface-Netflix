@@ -1,0 +1,51 @@
+
+body{
+    margin: 0;
+    background-color: black;
+}
+
+
+header{
+    width: 100vw;
+    height: 50vw;
+    background-image: url("https://trecobox.com.br/wp-content/uploads/2022/05/Netflix-1200x900-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}  
+.netflix{
+    color: firebrick;
+    text-align: center;
+}
+
+.conteudo{
+    margin-left: 30%;
+    width: 40%;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 150px;  
+}
+
+.sub-div{
+    margin-left: 30%;
+    width: 40%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    text-align: center; 
+}
+
+#continua{
+    background-color: red;
+    font-size: larger;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+#emai{
+    border-color: darkred;
+    border-radius: 10px;
+}
